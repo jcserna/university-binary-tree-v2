@@ -1,0 +1,13 @@
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.csprojAssemblyReference.cache
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.AssemblyInfoInputs.cache
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.AssemblyInfo.cs
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.csproj.CoreCompileInputs.cache
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.exe
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.deps.json
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.runtimeconfig.json
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.runtimeconfig.dev.json
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.dll
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.pdb
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.dll
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.pdb
+C:\Users\camis\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.genruntimeconfig.cache
